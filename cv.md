@@ -1,5 +1,5 @@
 # Mikalai Dziamkou
-###Contacts: *demkovn@mail.ru*  *Discord: demkovn#2843*
+### Contacts: *demkovn@mail.ru*  Discord: *demkovn#2843*
 #### The goal is to become a Front-end developer, gain knowledge and experience in the IT field.
 #### Ready to learn, understand complex projects and learn new things in my spare time.
 #### I have knowledge of HTML, CSS and JS.
